@@ -1,6 +1,6 @@
-I build tools that let AI agents do real work on real apps — WeChat, 剪映, iPhone, Telegram — plus a few small things for humans.
+Software ate the world. Agents are eating software. So I build software for agents.
 
-我做让 AI Agent 真能上手干活的工具：微信、剪映、iPhone、Telegram……也顺手做一些给人用的小东西。
+软件吞噬了世界，Agent 正在吞噬软件。所以我给 Agent 写软件。
 
 | |  | for agents |
 |---|---|---|
