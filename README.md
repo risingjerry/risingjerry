@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/banner.jpg" alt="Hand-drawn crayon banner: Clawd, the DeepSeek whale, Gemini, Grok and Codex arm in arm on a cloud" width="100%"></p>
+
 Software ate the world. Agents are eating software. So I build software for agents.
 
 软件吞噬了世界，Agent 正在吞噬软件。所以我给 Agent 写软件。
