@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/banner.jpg" alt="Hand-drawn crayon banner: Clawd, the DeepSeek whale, Gemini, Grok and Codex arm in arm on a cloud" width="100%"></p>
+<p align="center"><img src="assets/banner.jpg" alt="Hand-drawn crayon banner: Gemini, the DeepSeek whale, Clawd, Grok and Codex arm in arm on a cloud" width="100%"></p>
 
 Software ate the world. Agents are eating software. So I build software for agents.
 
