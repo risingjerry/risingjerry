@@ -16,7 +16,7 @@ I build tools that let AI agents do real work on real apps — WeChat, 剪映, i
 |---|---|---|
 | 🟢 | [wechat-multifix](https://github.com/risingjerry/wechat-multifix) | One-click install and repair for running multiple WeChat instances on macOS.<br>macOS 微信双开 / 多开，一键安装，坏了一键修。 |
 | 🍅 | [clawd](https://github.com/risingjerry/clawd) | A strict pixel desktop pet for Pomodoro breaks, Apple Reminders and bedtime.<br>很严格的像素桌宠：番茄钟休息、提醒事项、到点催你睡觉。 |
-| 🖼️ | [Mura](https://github.com/risingjerry/Mura) | A tiny macOS canvas that becomes your desktop wallpaper.<br>一块会变成桌面壁纸的小画布。 |
+| 🖼️ | [Mura](https://github.com/risingjerry/Mura) | Your agent writes tomorrow's to-do list onto your Mac wallpaper, hand-drawn like Excalidraw.<br>让 Agent 把明天要做的事写到 Mac 桌面上，Excalidraw 手绘风。 |
 | ✍️ | [englearn](https://github.com/risingjerry/englearn) | A macOS app to practice thinking and writing in English, spoken and formal.<br>练英文表达的 macOS 应用，口语和正式写作都能练。 |
 
 > Build what you love.
