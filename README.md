@@ -20,6 +20,7 @@ Software ate the world. Agents are eating software. So I build software for agen
 | |  | for humans |
 |---|---|---|
 | 🟢 | [wechat-multifix](https://github.com/risingjerry/wechat-multifix) | One-click install and repair for running multiple WeChat instances on macOS.<br>macOS 微信双开 / 多开，一键安装，坏了一键修。 |
+| 🎙️ | [earshot](https://github.com/risingjerry/earshot-iphone-audio-recorder) | Audio-only iPhone recorder: one Action Button press records the room or any app's sound (live streams, WeChat / Zoom calls, meetings), then your Mac transcribes and summarizes it.<br>只录声音的 iPhone 录音工具：按一下 Action Button 录身边对话或任意 App 的声音（直播、微信 / 腾讯会议通话），Mac 自动转文字、写纪要。 |
 | 💧 | [clawd](https://github.com/risingjerry/clawd) | Quiet macOS menu bar app for standing up, drinking water and bedtime: detects sitting automatically, tracks daily water and locks your screen at night, with a JSON CLI for agents.<br>安静的 macOS 菜单栏小工具：自动感知久坐提醒起身、记录每天喝水进度、到点守护睡眠，自带给 Agent 用的 JSON CLI。 |
 | ✍️ | [englearn](https://github.com/risingjerry/englearn) | A macOS app to practice thinking and writing in English, spoken and formal.<br>练英文表达的 macOS 应用，口语和正式写作都能练。 |
 
